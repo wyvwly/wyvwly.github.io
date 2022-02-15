@@ -1,6 +1,6 @@
 # Blog info
 blog_name: wangye
-slogan: Find the bug of the world
+slogan: Ani Satisfied Site page.
 url: http://wyvwly.github.io
 
 # Set avatar (Absolute url and relative url)
@@ -58,15 +58,15 @@ breadcrumb:
 
 # 盒子
 toolbox:
-  isShow: true # true|fase
+  isShow: false # true|fase
   text: 盒子
 
 search_slogan:
   isShow: true # true|fase
-  text: ani satisfied site.
+  text: Ani Satisfied Site page.
 
 link_slogan:
-  isShow: true # true|fase
+  isShow: false # true|fase
   text: 交换友链可以邮件 wyvwly@gmail.com
 
 
