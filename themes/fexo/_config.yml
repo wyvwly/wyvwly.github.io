@@ -10,7 +10,7 @@ avatar: /images/avatar.jpg
 favicon: /favicon.ico
 
 # For seo
-keywords: 前端,前端开发,用户体验,设计,frontend,design,nodejs,JavaScript
+keywords: JavaScript,frontend,前端,前端开发,用户体验,设计
 
 home_nav:
   - name: Blog
