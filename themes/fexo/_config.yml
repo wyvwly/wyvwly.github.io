@@ -1,6 +1,6 @@
 # Blog info
 blog_name: wangye
-slogan: Ani Satisfied Site page.
+slogan: Satisfied Site page.
 url: http://wyvwly.github.io
 
 # Set avatar (Absolute url and relative url)
@@ -144,7 +144,7 @@ changyan:
 
 # gitalk评论组件，把下面的配置换成你的，官方文档: https://gitalk.github.io/
 gitalk:
-  enable: true # 如果使用 gitalk，请设置改之为true
+  enable: false # 如果使用 gitalk，请设置改之为true
   clientID: 277317290454635afa73
   clientSecret: 78223c859304da5e8d71bfce136d436c6ff95c37
   repo: blog-comment
@@ -194,26 +194,24 @@ about:
   - type: me
     icon: icon-user
     text_value:
-    - "Scut，1991，Spring."
-    - "喜欢设计，擅长编程，喜欢睡懒觉."
-    - "前端开发工程师，常用 HTML / CSS / JavaScript."
+    - "常用 HTML / CSS / JavaScript."
   - type: Github
     icon: icon-github
     text_key: Github
-    text_value: "@forsigner"
-    text_value_url: https://github.com/forsigner
+    text_value: ""
+    text_value_url: https://github.com/wyvwly
   - type: weibo
     icon: icon-weibo
     text_key: 微博
     text_value: "@forsigner"
-    text_value_url: http://weibo.com/u/1847075964
+    text_value_url: https://weibo.com/u/1652642932
   - type: mail
     icon: icon-mail
     text_key: Gmail
-    text_value: "forsigner@gmail.com"
+    text_value: "wyvwly@gmail.com"
   - type: location
     icon: icon-location
-    text_value: 珠海
+    text_value: 深圳
 
 link:
   - name: 织网
@@ -251,47 +249,3 @@ project:
   #   name: Fexo
   #   url: https://github.com/forsigner/fexo
   #   intro: A minimalist design theme for hexo
-  - type: personal
-    name: beside
-    url: https://github.com/forsigner/beside
-    intro: I need you beside me
-  - type: personal
-    name: web-fontmin
-    url: https://github.com/forsigner/web-fontmin
-    intro: 字体子集化，在线提取你需要的字体
-  - type: personal
-    name: magic-check
-    url: https://github.com/forsigner/magic-check
-    intro: Beautify Radio and Checkbox with pure CSS
-  - type: personal
-    name: nice-bar
-    url: https://github.com/forsigner/nice-bar
-    intro: A nice and lightweight scrollbar
-  - type: personal
-    name: angular-nice-bar
-    url: https://github.com/forsigner/angular-nice-bar
-    intro: A nice and lightweight scrollbar in Angular
-  - type: personal
-    name: fo-popover
-    url: https://github.com/forsigner/fo-popover
-    intro: A nice popover for Angular
-  - type: personal
-    name: fo-tooltip
-    url: A nice tooltip for Angular
-    intro: https://github.com/forsigner/fo-tooltip
-  - type: personal
-    name: fo-modal
-    url: https://github.com/forsigner/fo-modal
-    intro: A nice modal for Angular
-  - type: personal
-    name: mocer
-    url: https://github.com/forsigner/mocer
-    intro: Setup a mock server easily
-  - type: personal
-    name: node-pngdefry
-    url: https://github.com/forsigner/node-pngdefry
-    intro: Repairing iPhone fried PNGs using Node.js
-  - type: personal
-    name: ng-simditor
-    url: https://github.com/forsigner/ng-simditor
-    intro: Angular directive for simditor
