@@ -13,6 +13,9 @@ favicon: /favicon.ico
 keywords: JavaScript,frontend,前端,前端开发,用户体验,设计
 
 home_nav:
+  - name: Book Library
+    url: http://138.2.43.31:8083/
+    target_blank: true
   - name: Blog
     url: /archives
     target_blank: false #不在新页面打开
